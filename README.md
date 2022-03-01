@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RitulMohan
-- 👀 I’m interested in CP, and data science 
+- 👀 I’m a student at BITS PILANI
 - 🌱 I’m currently learning DSA (Java) and data science (R)
 - 📫 reach out to me via ritulmohan.bits@gmail.com
 
