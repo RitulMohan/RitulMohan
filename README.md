@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RitulMohan
-- 👀 I’m a student at BITS PILANI
-
-- 📫 reach out to me via ritulmohan.bits@gmail.com
+- 👀 I’m a student at BITS PILANI interested in AI and its related fields
+  
 
 <!---
 RitulMohan/RitulMohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
